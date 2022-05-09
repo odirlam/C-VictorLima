@@ -1,0 +1,16 @@
+D:\CsharpVictorLima\exerciciosVictorLima\CursoCsharpVictorLima\bin\Debug\net5.0\CursoCsharpVictorLima.exe
+D:\CsharpVictorLima\exerciciosVictorLima\CursoCsharpVictorLima\bin\Debug\net5.0\CursoCsharpVictorLima.deps.json
+D:\CsharpVictorLima\exerciciosVictorLima\CursoCsharpVictorLima\bin\Debug\net5.0\CursoCsharpVictorLima.runtimeconfig.json
+D:\CsharpVictorLima\exerciciosVictorLima\CursoCsharpVictorLima\bin\Debug\net5.0\CursoCsharpVictorLima.runtimeconfig.dev.json
+D:\CsharpVictorLima\exerciciosVictorLima\CursoCsharpVictorLima\bin\Debug\net5.0\CursoCsharpVictorLima.dll
+D:\CsharpVictorLima\exerciciosVictorLima\CursoCsharpVictorLima\bin\Debug\net5.0\CursoCsharpVictorLima.pdb
+D:\CsharpVictorLima\exerciciosVictorLima\CursoCsharpVictorLima\obj\Debug\net5.0\CursoCsharpVictorLima.csproj.AssemblyReference.cache
+D:\CsharpVictorLima\exerciciosVictorLima\CursoCsharpVictorLima\obj\Debug\net5.0\CursoCsharpVictorLima.GeneratedMSBuildEditorConfig.editorconfig
+D:\CsharpVictorLima\exerciciosVictorLima\CursoCsharpVictorLima\obj\Debug\net5.0\CursoCsharpVictorLima.AssemblyInfoInputs.cache
+D:\CsharpVictorLima\exerciciosVictorLima\CursoCsharpVictorLima\obj\Debug\net5.0\CursoCsharpVictorLima.AssemblyInfo.cs
+D:\CsharpVictorLima\exerciciosVictorLima\CursoCsharpVictorLima\obj\Debug\net5.0\CursoCsharpVictorLima.csproj.CoreCompileInputs.cache
+D:\CsharpVictorLima\exerciciosVictorLima\CursoCsharpVictorLima\obj\Debug\net5.0\CursoCsharpVictorLima.dll
+D:\CsharpVictorLima\exerciciosVictorLima\CursoCsharpVictorLima\obj\Debug\net5.0\refint\CursoCsharpVictorLima.dll
+D:\CsharpVictorLima\exerciciosVictorLima\CursoCsharpVictorLima\obj\Debug\net5.0\CursoCsharpVictorLima.pdb
+D:\CsharpVictorLima\exerciciosVictorLima\CursoCsharpVictorLima\obj\Debug\net5.0\CursoCsharpVictorLima.genruntimeconfig.cache
+D:\CsharpVictorLima\exerciciosVictorLima\CursoCsharpVictorLima\obj\Debug\net5.0\ref\CursoCsharpVictorLima.dll
